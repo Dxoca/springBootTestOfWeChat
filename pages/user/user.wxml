@@ -1,0 +1,4 @@
+<!--pages/user/user.wxml-->
+<text>pages/user/user.wxml</text>
+<button type="primary" style="position: relative; left: -179rpx; top: 1036rpx; width: 296rpx; height: 97rpx; display: block; box-sizing: border-box">返回主页</button>
+<button type="primary" style="position: relative; left: 181rpx; top: 940rpx; width: 296rpx; height: 97rpx; display: block; box-sizing: border-box">增加信息</button>
